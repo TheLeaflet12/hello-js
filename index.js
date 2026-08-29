@@ -9,3 +9,6 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Сервер запущен на порту 3000');
 });
+
+console.log("Привет GitHub");
+console.log("Это мой второй коммит");
