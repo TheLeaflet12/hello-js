@@ -12,3 +12,4 @@ app.listen(3000, () => {
 
 console.log("Привет GitHub");
 console.log("Это мой второй коммит");
+console.log("Функции сервера");
